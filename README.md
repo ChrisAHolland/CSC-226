@@ -26,10 +26,3 @@ These programs are based off of code from Algorithms by Robert Sedgewick.
  *  along with algs4.jar.  If not, see http://www.gnu.org/licenses.
  ******************************************************************************/
  ```
-Run using
-```
-javac RedBlackBST.java
-```
-```
-java RedBlackBST test_file.txt
-```
